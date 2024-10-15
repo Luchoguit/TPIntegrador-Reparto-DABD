@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Página-1" id="LuOxkL1Yb-oQvovYPexT">
-    <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1421" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
           <mxGeometry y="176" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FRud_eJsPTm4quz33jYx-2" value="Repartos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1280" width="201" height="266" as="geometry" />
+          <mxGeometry x="411" y="1260" width="201" height="266" as="geometry" />
         </mxCell>
         <mxCell id="FRud_eJsPTm4quz33jYx-4" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;N° de envío&lt;/u&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" parent="FRud_eJsPTm4quz33jYx-2" vertex="1">
           <mxGeometry y="26" width="201" height="30" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry y="236" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FRud_eJsPTm4quz33jYx-13" value="Sucursales de despacho" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1280" width="201" height="86" as="geometry" />
+          <mxGeometry x="625" y="1260" width="201" height="86" as="geometry" />
         </mxCell>
         <mxCell id="FRud_eJsPTm4quz33jYx-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;N° sucursal de despacho&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;whiteSpace=wrap;html=1;fontStyle=4" parent="FRud_eJsPTm4quz33jYx-13" vertex="1">
           <mxGeometry y="26" width="201" height="30" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry y="56" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tltFkQXsLB7-F_eLtfrp-3" value="Remitentes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1410" width="201" height="86" as="geometry" />
+          <mxGeometry x="626" y="1368" width="201" height="86" as="geometry" />
         </mxCell>
         <mxCell id="tltFkQXsLB7-F_eLtfrp-4" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;DNI remitente&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=4" parent="tltFkQXsLB7-F_eLtfrp-3" vertex="1">
           <mxGeometry y="26" width="201" height="30" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry y="56" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tgn6AT-fLhAFevU50R1u-17" value="Destinos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1280" width="201" height="206" as="geometry" />
+          <mxGeometry x="840" y="1260" width="201" height="206" as="geometry" />
         </mxCell>
         <mxCell id="tgn6AT-fLhAFevU50R1u-18" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;Cod. Tipo de envío&lt;/u&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" parent="tgn6AT-fLhAFevU50R1u-17" vertex="1">
           <mxGeometry y="26" width="201" height="30" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry y="176" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tgn6AT-fLhAFevU50R1u-26" value="Destinatario" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="870" y="1280" width="201" height="120" as="geometry" />
+          <mxGeometry x="1053" y="1260" width="201" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tgn6AT-fLhAFevU50R1u-27" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;DNI Destinatario&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=4" parent="tgn6AT-fLhAFevU50R1u-26" vertex="1">
           <mxGeometry y="26" width="201" height="30" as="geometry" />
@@ -210,6 +210,30 @@
         </mxCell>
         <mxCell id="tgn6AT-fLhAFevU50R1u-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Dirección destinatario&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" parent="tgn6AT-fLhAFevU50R1u-26" vertex="1">
           <mxGeometry y="90" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wC5BFhIvvrSBxLkTIY-3-4" value="Paquetes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1480" width="201" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="wC5BFhIvvrSBxLkTIY-3-8" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;N° de paquete&lt;/u&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" vertex="1" parent="wC5BFhIvvrSBxLkTIY-3-4">
+          <mxGeometry y="26" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wC5BFhIvvrSBxLkTIY-3-11" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;N° de envío&lt;/u&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" vertex="1" parent="wC5BFhIvvrSBxLkTIY-3-4">
+          <mxGeometry y="56" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wC5BFhIvvrSBxLkTIY-3-9" value="Descripcion_Contenido" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" vertex="1" parent="wC5BFhIvvrSBxLkTIY-3-4">
+          <mxGeometry y="86" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wC5BFhIvvrSBxLkTIY-3-10" value="Estado" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" vertex="1" parent="wC5BFhIvvrSBxLkTIY-3-4">
+          <mxGeometry y="116" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wC5BFhIvvrSBxLkTIY-3-12" value="Telefonos Destinatarios" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1053" y="1390" width="201" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wC5BFhIvvrSBxLkTIY-3-16" value="&lt;u&gt;Telefono Destinatario&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" vertex="1" parent="wC5BFhIvvrSBxLkTIY-3-12">
+          <mxGeometry y="26" width="201" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="wC5BFhIvvrSBxLkTIY-3-17" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;DNI remitente&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;whiteSpace=wrap;html=1;" vertex="1" parent="wC5BFhIvvrSBxLkTIY-3-12">
+          <mxGeometry y="60" width="201" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
